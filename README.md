@@ -14,9 +14,6 @@ Custom PCB shield design for maze-solving robotics navigation system.
   - Voltage regulation
   - Power distribution network
   - Protection against voltage spikes
-- Signal Processing
-  - Noise filtering circuits
-  - Signal conditioning
 - Microcontroller Compatibility
   - Designed for VSD Squadron platform
   - Standard pinout and connection headers
