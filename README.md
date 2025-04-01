@@ -36,6 +36,8 @@ Custom PCB shield design for maze-solving robotics navigation system.
 ![image alt](https://github.com/brijeshahirwar100/Maze_Solver_Shield_VSDSquadron/blob/7d656eb4355c412ed02001304fc00be53a3899ed/production/PCB.png)
 ## PCB Model
 ![image alt](https://github.com/brijeshahirwar100/Maze_Solver_Shield_VSDSquadron/blob/2223841f5d3a7a0c66e431b4d7378b820afef8af/production/FPGA_SHIELD_DESIGN_PROJECT_TOP.jpg)
+## PCB Schematic
+![image alt](https://github.com/brijeshahirwar100/Maze_Solver_Shield_VSDSquadron/blob/c8534ad577e945810e3fc5ec13d8f2001185c8bc/production/Schematic.png)
 
 ### Documentation
 - `README.md`: Project overview
