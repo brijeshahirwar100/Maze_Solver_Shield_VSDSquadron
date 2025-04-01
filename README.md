@@ -33,8 +33,7 @@ Custom PCB shield design for maze-solving robotics navigation system.
 - `Schematic.pdf`: Schematic diagram
 - `FPGA_SHIELD_DESIGN_PROJECT_BOT.jpeg`: Project visualization
 
-##PCB 
-![Alt Text]((https://github.com/brijeshahirwar100/Maze_Solver_Shield_VSDSquadron/blob/main/production/FPGA_SHIELD_DESIGN_PROJECT_TOP.jpg))
+
 
 ### Documentation
 - `README.md`: Project overview
